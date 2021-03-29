@@ -1,2 +1,0 @@
-# sveltescratch
-Begin app
